@@ -1,3 +1,6 @@
-li {
-  color: blue;
+div {
+  box-shadow: 10px 10px 0 black;
+  background: #ff0000;
+  width: 300px;
+  height: 300px;
 }
